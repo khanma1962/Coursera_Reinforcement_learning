@@ -1,3 +1,8 @@
 
 
-# Coursera_Reinforcement_learning
+# Coursera Reinforcement learning
+
+
+https://www.coursera.org/specializations/reinforcement-learning
+
+
